@@ -13,4 +13,4 @@ Since all my data is analyzed and that I'm currently writing my thesis, I have n
 
 And get free food.
 
-![ (https://d17fnq9dkz9hgj.cloudfront.net/uploads/2012/11/152964589-welcome-home-new-cat-632x475.jpg) ]
+![(https://www.google.ca/url?sa=i&source=images&cd=&ved=2ahUKEwihivD0iYXkAhVLIqwKHV12CXsQjRx6BAgBEAQ&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FCat_intelligence&psig=AOvVaw19CTPwuroWfT2yH97ibm5Z&ust=1565965247672132)]
