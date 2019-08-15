@@ -13,4 +13,4 @@ Since all my data is analyzed and that I'm currently writing my thesis, I have n
 
 And get free food.
 
-![(https://github.com/nickcorriveaul/images.git/Bike.jpg)]
+![](https://github.com/nickcorriveaul/images.git/Bike.jpg)
