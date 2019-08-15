@@ -12,5 +12,3 @@ When an individual meets criteria for dementia, neuropathophysiological changes 
 Since all my data is analyzed and that I'm currently writing my thesis, I have no project to work on. Therefore my goal is to be more familiar with coding softwares, Github, Jupyter notebook and all this stuff. I think it would be realist for me to try to replicate the results from my papers using R and to learn how to make beautiful graphs. 
 
 And get free food.
-
-![(https://www.google.ca/url?sa=i&source=images&cd=&ved=2ahUKEwihivD0iYXkAhVLIqwKHV12CXsQjRx6BAgBEAQ&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FCat_intelligence&psig=AOvVaw19CTPwuroWfT2yH97ibm5Z&ust=1565965247672132)]
