@@ -13,4 +13,4 @@ Since all my data is analyzed and that I'm currently writing my thesis, I have n
 
 And get free food.
 
-![(https://d17fnq9dkz9hgj.cloudfront.net/uploads/2012/11/152964589-welcome-home-new-cat-632x475.jpg)]
+![ (https://d17fnq9dkz9hgj.cloudfront.net/uploads/2012/11/152964589-welcome-home-new-cat-632x475.jpg) ]
