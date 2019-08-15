@@ -13,4 +13,4 @@ Since all my data is analyzed and that I'm currently writing my thesis, I have n
 
 And get free food.
 
-![(https://www.google.ca/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwi3pcnDiIXkAhUBKa0KHVzXAXsQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.sciencefocus.com%2Fnature%2Fis-it-true-that-most-ginger-cats-are-male%2F&psig=AOvVaw1y3KZktphoKEf_GlscxNxn&ust=1565965031006119)]
+![(https://www.google.ca/url?sa=i&source=images&cd=&ved=2ahUKEwj3k6ukiYXkAhUFD60KHZkNBOAQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.petfinder.com%2Fcats%2Fbringing-a-cat-home%2Fwelcome-home-new-cat%2F&psig=AOvVaw19CTPwuroWfT2yH97ibm5Z&ust=1565965247672132)]
