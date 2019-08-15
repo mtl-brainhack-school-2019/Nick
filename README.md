@@ -12,3 +12,5 @@ When an individual meets criteria for dementia, neuropathophysiological changes 
 Since all my data is analyzed and that I'm currently writing my thesis, I have no project to work on. Therefore my goal is to be more familiar with coding softwares, Github, Jupyter notebook and all this stuff. I think it would be realist for me to try to replicate the results from my papers using R and to learn how to make beautiful graphs. 
 
 And get free food.
+
+![(https://github.com/nickcorriveaul/images.git/Bike.jpg)]
